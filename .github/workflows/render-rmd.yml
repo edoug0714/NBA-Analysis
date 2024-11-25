@@ -23,4 +23,4 @@ jobs:
 
       - name: Render RMarkdown
         run: |
-          Rscript -e 'rmarkdown::render("your_file.Rmd")'
+          Rscript -e 'rmarkdown::render("NBAAnalysis_Team10 (7).Rmd")'
